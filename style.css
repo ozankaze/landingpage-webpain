@@ -23,7 +23,6 @@ header {
 header img {
     height: 30px;
     margin-top: 10px;
-
 }
 
 header a {
@@ -37,6 +36,7 @@ header a {
 }
 
 nav {
+    text-transform: uppercase;
     font-size: 12px;
 }
 
