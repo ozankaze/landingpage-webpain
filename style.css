@@ -40,6 +40,10 @@ nav {
     font-size: 12px;
 }
 
+nav a {
+    margin-top: 25px;
+}
+
 nav ul {
     float: right;
     margin-right: 25px;
