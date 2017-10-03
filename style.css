@@ -84,11 +84,11 @@ body {
 .hero-unit {
     text-align: center;
     /*    padding: 60px;*/
-    font-size: 50px;
+    font-size: 45px;
 }
 
 .hero-unit strong {
-    color: white;
+    color: #d0d0d0;
     font-weight: 900;
 }
 
@@ -111,4 +111,5 @@ button {
     border: 1px solid transparent;
     font-weight: 700;
     color: white;
+    font-size: 14px;
 }
