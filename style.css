@@ -113,3 +113,40 @@ button {
     color: white;
     font-size: 14px;
 }
+
+/*sercive*/
+
+#service {
+    background-color: #f8f8f8;
+    padding: 100px 0;
+    /*    height: 400px;*/
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-center img {
+    padding-bottom: 25px;
+    height: 80px;
+}
+
+.collom {
+    width: 25%;
+    display: inline;
+    margin: auto;
+    /*    margin: 16.1px;*/
+    float: left;
+    background-color: #f8f8f8;
+    /*    border: 1px solid black;*/
+}
+
+.collom h1 {
+    color: #505050;
+    padding-bottom: 15px;
+
+}
+
+.collom p {
+    color: #7c7c7c;
+}

@@ -28,3 +28,7 @@ before sebelum kontent di dalamnya
 after setelah kontent yang di dalam 
 kenapa pake table biar suport sama browser ie 8 ke atasnya;
 content code yang harus ada
+
+# pertemuan 4
+
+# pertemuan 5
