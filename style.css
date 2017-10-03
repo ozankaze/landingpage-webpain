@@ -141,6 +141,10 @@ button {
     /*    border: 1px solid black;*/
 }
 
+.collom-bawah {
+    padding: 20px;
+}
+
 .collom h1 {
     color: #505050;
     padding-bottom: 15px;
