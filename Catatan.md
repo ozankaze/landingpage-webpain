@@ -32,3 +32,8 @@ content code yang harus ada
 # pertemuan 4
 
 # pertemuan 5
+refisi
+headling 18
+p 15
+icon kegedean
+line-height 23

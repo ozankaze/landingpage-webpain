@@ -128,7 +128,7 @@ button {
 
 .text-center img {
     padding-bottom: 15px;
-    height: 70px;
+    height: 60px;
 }
 
 .collom {
@@ -148,10 +148,12 @@ button {
 .collom h1 {
     color: #505050;
     padding-bottom: 15px;
+    font-size: 18px;
 
 }
 
 .collom p {
     color: #7c7c7c;
-    line-height: 20px;
+    line-height: 23px;
+    font-size: 15px;
 }
