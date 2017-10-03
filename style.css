@@ -31,7 +31,6 @@ body {
 }
 
 
-
 .logo {
     float: left;
 }
@@ -100,6 +99,7 @@ body {
 
 .hero-unit p {
     font-size: 40px;
+    color: #d0d0d0;
     padding-bottom: 30px;
 }
 
