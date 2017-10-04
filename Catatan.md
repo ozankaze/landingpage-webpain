@@ -39,9 +39,11 @@ p 15
 icon kegedean
 line-height 23
 
-# pertemuan  6 (tanggal 04-10-2017)
+# pertemuan 6 (tanggal 04-10-2017)
 section
 servise
 feature
 pagi
 bwat layout section 
+
+# pertemuan 7
