@@ -1,6 +1,9 @@
 * {
     margin: 0;
     padding: 0;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -84,10 +87,7 @@ body {
 .hero-unit {
     text-align: center;
     font-size: 40px;
-}
-
-.hero-unit i {
-    font-weight: normal;
+    font-weight: 400i;
 }
 
 .hero-unit strong {
@@ -104,6 +104,11 @@ body {
     color: #d0d0d0;
     font-size: 42px;
     padding-bottom: 30px;
+}
+
+.hero-unit i {
+    color: #d0d0d0;
+    font-weight: 400;
 }
 
 button {
@@ -198,7 +203,7 @@ button {
     list-style-type: none;
     color: white;
     font-size: 12px;
-    font-weight: 800;
+    font-weight: 900;
     padding: 10px 20px;
     margin-right: 5px;
     background-color: #f74d4c;
@@ -215,4 +220,8 @@ button {
 
 .nav-button li.active-button a {
     background-color: #595959;
+}
+
+.collom-feature .clear img {
+    width: 270px;
 }
