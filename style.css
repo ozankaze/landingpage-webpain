@@ -118,8 +118,8 @@ button {
 
 #service {
     background-color: #f8f8f8;
-    padding: 100px 0;
     /*    height: 400px;*/
+    padding: 100px 0;
 }
 
 .text-center {
@@ -135,10 +135,8 @@ button {
     width: 25%;
     display: inline;
     margin: auto;
-    /*    margin: 16.1px;*/
     float: left;
     background-color: #f8f8f8;
-    /*    border: 1px solid black;*/
 }
 
 .collom-bawah {
@@ -156,4 +154,60 @@ button {
     color: #7c7c7c;
     line-height: 23px;
     font-size: 15px;
+}
+
+/*features*/
+
+#featured {
+    background-color: #ffffff;
+    padding: 100px 0;
+    /*    height: 300px;*/
+}
+
+.banner {
+    text-align: center;
+    color: #616161;
+}
+
+.banner h1 {
+    font-weight: 900;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+.banner p {
+    padding-bottom: 50px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.nav-button {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.nav-button ul li {
+    display: inline;
+}
+
+.nav-button ul li a {
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    font-weight: 800;
+    padding: 10px 15px;
+    background-color: #f74d4c;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+/*collom-feature*/
+
+.collom-feature {
+    float: left;
+    padding: 7px 7px;
+}
+
+.nav-button li.active-button a {
+    background-color: #595959;
 }
