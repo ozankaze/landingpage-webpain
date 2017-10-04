@@ -40,7 +40,8 @@ icon kegedean
 line-height 23
 
 # pertemuan  6 (tanggal 04-10-2017)
-#616161
 section
 servise
 feature
+pagi
+bwat layout section 
