@@ -1,4 +1,4 @@
-# pertemuan 1
+# pertemuan 1 (tanggal 02-10-2017)
 untuk membuat 2 header dan kita hatus memisakah antara header lain dan membuat atribute ID
 
 di bagian logo kita memerlukan div supaya lebih aman
@@ -29,7 +29,8 @@ after setelah kontent yang di dalam
 kenapa pake table biar suport sama browser ie 8 ke atasnya;
 content code yang harus ada
 
-# pertemuan 4
+
+# pertemuan 4 (tanggal 03-10-2017)
 
 # pertemuan 5
 refisi
@@ -37,3 +38,9 @@ headling 18
 p 15
 icon kegedean
 line-height 23
+
+# pertemuan  6 (tanggal 04-10-2017)
+#616161
+section
+servise
+feature
