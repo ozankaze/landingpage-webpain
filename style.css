@@ -83,8 +83,11 @@ body {
 
 .hero-unit {
     text-align: center;
-    /*    padding: 60px;*/
-    font-size: 45px;
+    font-size: 40px;
+}
+
+.hero-unit i {
+    font-weight: normal;
 }
 
 .hero-unit strong {
