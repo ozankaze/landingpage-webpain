@@ -212,7 +212,8 @@ button {
     text-transform: uppercase;
 }
 
-@media (-webkit-min-device-pixell-ratio: 2), (min-resolution: 192dpi) {
+@media (-webkit-min-device-pixell-ratio: 2),
+(min-resolution: 192dpi) {
     .nav-button ul li a {
         font-weight: 900;
     }
@@ -226,6 +227,10 @@ button {
 }
 
 .nav-button li.active-button a {
+    background-color: #595959;
+}
+
+.nav-button ul li a:hover {
     background-color: #595959;
 }
 
