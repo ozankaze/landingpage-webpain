@@ -10,6 +10,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-size: 14px;
     font-weight: 400;
+    text-rendering: optimizeLegibility;
 }
 
 .container {
@@ -203,7 +204,7 @@ button {
     list-style-type: none;
     color: white;
     font-size: 12px;
-    font-weight: 900;
+    font-weight: 700;
     padding: 10px 20px;
     margin-right: 5px;
     background-color: #f74d4c;
