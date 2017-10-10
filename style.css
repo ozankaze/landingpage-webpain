@@ -152,14 +152,14 @@ button {
     padding: 20px;
 }
 
-.collom h1 {
+.collom-bawah h1 {
     color: #505050;
     padding-bottom: 15px;
     font-size: 18px;
 
 }
 
-.collom p {
+.collom-bawah p {
     color: #7c7c7c;
     line-height: 23px;
     font-size: 15px;
@@ -245,17 +245,22 @@ button {
     background-color: #252525;
 }
 
-.text-center h1 {
-    font-size: 25px;
+.text-centerz {
+    text-align: center;
+}
+
+.text-centerz h1 {
+    font-size: 30px;
     font-weight: 900;
     color: #e0e0e0;
     padding-bottom: 20px;
 }
 
-.text-center p {
+.text-centerz p {
     padding-bottom: 20px;
     color: #bebebe;
-
+    font-weight: 400;
+    font-size: 20px;
 }
 
 .nav-top ul li {
@@ -274,9 +279,17 @@ button {
     /*    padding-bottom: 50px;*/
 }
 
-.nav-top ul li a img {
+.nav-top ul li,
+.images-phone a img {
     width: 11px;
-    height: 13px;
+    height: 12px;
+    margin-right: 10px;
+}
+
+.nav-top ul li,
+.images-location a img {
+    width: 9px;
+    height: 12px;
     margin-right: 10px;
 }
 
@@ -297,7 +310,7 @@ button {
     margin-top: 30px;
     width: 30px;
     height: 30px;
-    padding: 3px;
+    padding: 2px;
 }
 
 /*copy*/

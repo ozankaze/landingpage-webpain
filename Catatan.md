@@ -47,3 +47,32 @@ pagi
 bwat layout section 
 
 # pertemuan 7
+h1 kekecilan
+p kurang besar
+icon kelebaran dikit
+
+# pertemuan 8 (tanggal 09-10-2017)
+pengalaman memtetukan hasil
+bwat layout full 
+a yang ada clas active
+a .class di dalam anya ada class
+
+catatan pseudo  class
+
+jangan typo
+menganalisi
+penulisan psydo
+
+kenapa pake inline-block klau kita menggunakan display blok dia harus pakai inline block juga karena kita mau menggunakan mengaktifkan padding
+
+line height
+font size
+font weight
+warna mengikat rasa 
+estentika
+
+max width 25% untuk batesaan max lebarnya lebih lebar dari ini maka tidak akan melebar
+
+width 100% lebih kecil dari 1140px maka mengikuti lebar widthnya
+
+mengikuti lebar besar mengecil dari lebar maxwidth
