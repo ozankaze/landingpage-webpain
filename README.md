@@ -1,2 +1,2 @@
 # webpain
-Tugas Mas Arif - HTML Template ( Tugas 1)
+Tugas Mas Arif - HTML + CSS Template ( Tugas 1)
